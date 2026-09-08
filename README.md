@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/CellularDynasty/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0219-contains-duplicate-ii](https://github.com/CellularDynasty/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/CellularDynasty/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/CellularDynasty/leetcode-solutions/tree/master/0268-missing-number) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CellularDynasty/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/CellularDynasty/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/CellularDynasty/leetcode-solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/CellularDynasty/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/CellularDynasty/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/CellularDynasty/leetcode-solutions/tree/master/0202-happy-number) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/CellularDynasty/leetcode-solutions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
