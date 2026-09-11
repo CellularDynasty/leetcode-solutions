@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/CellularDynasty/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/CellularDynasty/leetcode-solutions/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/CellularDynasty/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0056-merge-intervals](https://github.com/CellularDynasty/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0219-contains-duplicate-ii](https://github.com/CellularDynasty/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/CellularDynasty/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/CellularDynasty/leetcode-solutions/tree/master/0268-missing-number) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/CellularDynasty/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/CellularDynasty/leetcode-solutions/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/CellularDynasty/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/CellularDynasty/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/CellularDynasty/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/CellularDynasty/leetcode-solutions/tree/master/0268-missing-number) |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/CellularDynasty/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/CellularDynasty/leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
